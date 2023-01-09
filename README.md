@@ -1,6 +1,7 @@
 # Developer Notes
 
 The last 2 tests dont work and I can't seem to figure out why, visually it passes but I'm not used to enzyme & it's taking too much time to troubleshoot, I'd love to find out why though if you know?
+
 There was also a bug with `.reduce` that I couldn't troubleshoot given the time constraints, I've used these HO functions before and i've never had missing data before, but I applied a bandaid fix.
 
 # Revenue aggregator application
